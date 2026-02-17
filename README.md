@@ -101,31 +101,17 @@ These notes explain:
 -   Formula interpretations
 
 The notes are accessible via the provided **Google Drive link**.
-Link: (Hand written notes){https://drive.google.com/drive/folders/1GdXPh9xlgDhCGUy3eChg8Gy3ddAtiiBs?usp=sharing}
+Link: https://drive.google.com/drive/folders/1GdXPh9xlgDhCGUy3eChg8Gy3ddAtiiBs?usp=sharing
 
 ------------------------------------------------------------------------
 
 ## How to Use This Repository
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 
 ``` bash
 git clone https://github.com/AsadBukhari886/foundations_of_artificial_neural_network.git
 cd foundations_of_artificial_neural_network
-```
-
-### 2️⃣ Install Required Libraries
-
-It is recommended to create a virtual environment.
-
-``` bash
-pip install numpy matplotlib pandas scikit-learn notebook
-```
-
-### 3️⃣ Run Jupyter Notebook
-
-``` bash
-jupyter notebook
 ```
 
 Open the notebooks class-wise and follow them in sequence.
