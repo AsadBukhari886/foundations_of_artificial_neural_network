@@ -2,7 +2,7 @@
 
 This repository contains structured learning material and practical
 implementations for understanding the **foundations of Artificial Neural
-Networks (ANNs)**.\
+Networks (ANNs)**.
 It is designed for students, beginners, and self-learners who want to
 build strong conceptual and practical knowledge of neural networks from
 scratch.
@@ -14,10 +14,10 @@ scratch.
 The repository includes:
 
 -   **Jupyter Notebooks (Class-wise lectures)** covering core ANN
-    concepts\
+    concepts
 -   **NumPy-focused Google Colab notebooks** (inside the `numpy/`
-    folder)\
--   **Written notes** (available via external Google Drive link)\
+    folder)
+-   **Written notes** (available via external Google Drive link)
 -   Clear commit messages describing the purpose of each uploaded
     file
 
@@ -30,16 +30,16 @@ neural network fundamentals.
 
 The notebooks progressively cover key concepts such as:
 
--   Introduction to Artificial Neural Networks\
--   Biological vs Artificial Neurons\
--   Perceptron Model\
--   Activation Functions\
--   Feedforward Neural Networks\
--   Forward Propagation\
--   Loss Functions\
--   Backpropagation Algorithm\
--   Gradient Descent\
--   Weight Updates and Optimization\
+-   Introduction to Artificial Neural Networks 
+-   Biological vs Artificial Neurons 
+-   Perceptron Model 
+-   Activation Functions 
+-   Feedforward Neural Networks 
+-   Forward Propagation 
+-   Loss Functions 
+-   Backpropagation Algorithm 
+-   Gradient Descent 
+-   Weight Updates and Optimization 
 -   Mathematical Foundations behind ANN
 
 Each notebook corresponds to specific class sessions and builds upon
@@ -95,13 +95,14 @@ notebooks.
 
 These notes explain:
 
--   Mathematical derivations\
--   Step-by-step algorithm breakdowns\
--   Conceptual explanations\
+-   Mathematical derivations 
+-   Step-by-step algorithm breakdowns 
+-   Conceptual explanations 
 -   Formula interpretations
 
 The notes are accessible via the provided **Google Drive link**.
-Link: https://drive.google.com/drive/folders/1GdXPh9xlgDhCGUy3eChg8Gy3ddAtiiBs?usp=sharing
+
+Drive Folder: https://drive.google.com/drive/folders/1GdXPh9xlgDhCGUy3eChg8Gy3ddAtiiBs?usp=sharing
 
 ------------------------------------------------------------------------
 
@@ -120,19 +121,19 @@ Open the notebooks class-wise and follow them in sequence.
 
 ## Recommended Learning Path
 
-1.  Start with the **NumPy notebooks** in the `numpy/` folder\
-2.  Move to the class notebooks in order\
-3.  Use the written notes for deeper mathematical understanding\
+1.  Start with the **NumPy notebooks** in the `numpy/` folder 
+2.  Move to the class notebooks in order 
+3.  Use the written notes for deeper mathematical understanding 
 4.  Modify and experiment with the code
 
 ------------------------------------------------------------------------
 
 ## Who Is This For?
 
--   Students studying Machine Learning\
--   Beginners learning Neural Networks\
+-   Students studying Machine Learning 
+-   Beginners learning Neural Networks 
 -   Anyone wanting to understand ANN from scratch without heavy
-    frameworks\
+    frameworks 
 -   Learners preparing for advanced Deep Learning
 
 ------------------------------------------------------------------------
@@ -141,9 +142,9 @@ Open the notebooks class-wise and follow them in sequence.
 
 This repository is primarily built for:
 
--   Academic learning\
--   Course material reference\
--   Self-study practice\
+-   Academic learning 
+-   Course material reference 
+-   Self-study practice 
 -   Strengthening mathematical intuition behind neural networks
 
 ------------------------------------------------------------------------
@@ -152,9 +153,9 @@ This repository is primarily built for:
 
 Contributions are welcome. You may:
 
--   Improve explanations\
--   Add more examples\
--   Fix errors\
+-   Improve explanations 
+-   Add more examples 
+-   Fix errors 
 -   Add advanced topics
 
 Feel free to open a Pull Request.
@@ -169,7 +170,7 @@ This project is licensed under the MIT License.
 
 ## 👨 Author
 
-Asad Bukhari\
+Asad Bukhari 
 Artificial Intelligence Enthusiast
 
 ------------------------------------------------------------------------
